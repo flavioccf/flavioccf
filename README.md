@@ -8,6 +8,8 @@ I started progamming a little late in my life, back when I was 25, but I'm very 
 I'm in love with gaming, reading and watching movies, specially scify and fantasy (such as Matrix, Star Wars and Lord of The Rings).
 I play acoustic rock 🎸 and from time to time I jam at some local pubs.
 
+I'm married with a beautifull woman and we have a big dog named Chewbacca (AKA Chewie)
+
 ### 🔭 At work I'm a:
 
 Team leader, Fullstack Developer - Laravel Framework, IBM  Watson Chatbot curator and also Responsible for Customer Support Area of LG Electronics Brazil [website](https://wwwstg.lg.com/br/suporte)
