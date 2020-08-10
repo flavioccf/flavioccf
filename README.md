@@ -10,17 +10,11 @@ I play acoustic rock 🎸 and from time to time I jam at some local pubs.
 
 ### 🔭 At work I'm a:
 
-- Team leader
-- Fullstack Developer - Laravel Framework
-- IBM  Watson Chatbot curator
-- Responsible for Customer Support Area of LG Electronics Brazil [website](https://wwwstg.lg.com/br/suporte)
+Team leader, Fullstack Developer - Laravel Framework, IBM  Watson Chatbot curator and also Responsible for Customer Support Area of LG Electronics Brazil [website](https://wwwstg.lg.com/br/suporte)
 
 ### 🏡 At home I'm studying:
 
-- Flutter
-- ReactJS
-- NodeJS
-- A whole lot of other things...
+Flutter, ReactJS, NodeJS and a whole lot of other things...
 
 ### 🤝 Get in touch
 
