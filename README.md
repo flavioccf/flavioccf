@@ -5,7 +5,7 @@
 I'm a guy with a bachelor's degree in tourism, MBA and now a Systems Development Diploma. 
 I started progamming a little late in my life, back when I was 25, but I'm very dedicated, eager to learn and **always open for new opportunities**.
 
-I'm in love with gaming, reading and watching movies specially scify and fantasy (such as Matrix, Star Wars and Lord of The Rings)
+I'm in love with gaming, reading and watching movies, specially scify and fantasy (such as Matrix, Star Wars and Lord of The Rings).
 I play acoustic rock 🎸 and from time to time I jam at some local pubs.
 
 ### 🔭 At work I'm a:
