@@ -23,6 +23,8 @@ Flutter, ReactJS, NodeJS and a whole lot of other things...
 Come and find me on 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavioccf)](https://www.linkedin.com/in/flavioccf)
+[![RocketSeat Badge](https://img.shields.io/static/v1?label=🚀&message=RocketSeat&color=blueviolet&style=flat-square&link=https://app.rocketseat.com.br/me/flavioccf)](https://app.rocketseat.com.br/me/flavioccf)
+[![Alura Badge](https://img.shields.io/static/v1?label=a&message=Alura&color=informational&style=flat-square&link=https://cursos.alura.com.br/user/flavioccf)](https://cursos.alura.com.br/user/flavioccf)
 
 
 <!--
