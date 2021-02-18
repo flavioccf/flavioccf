@@ -8,7 +8,7 @@ I started progamming a little late in my life, back when I was 25, but I'm very 
 I'm in love with gaming, reading and watching movies, specially scify and fantasy (such as Matrix, Star Wars and Lord of The Rings).
 I play acoustic rock 🎸 and from time to time I jam at some local pubs.
 
-I'm married with a beautifull woman and we have a big dog named Chewbacca (AKA Chewie)
+I'm married to a beautifull and intelligent woman and we have a big dog named Chewbacca (AKA Chewie)
 
 ### 🔭 At work I'm a:
 
@@ -23,21 +23,3 @@ Flutter, ReactJS, NodeJS and a whole lot of other things...
 Come and find me on 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavioccf)](https://www.linkedin.com/in/flavioccf)
-[![RocketSeat Badge](https://img.shields.io/static/v1?label=🚀&message=RocketSeat&color=blueviolet&style=flat-square&link=https://app.rocketseat.com.br/me/flavioccf)](https://app.rocketseat.com.br/me/flavioccf)
-[![Alura Badge](https://img.shields.io/static/v1?label=a&message=Alura&color=informational&style=flat-square&link=https://cursos.alura.com.br/user/flavioccf)](https://cursos.alura.com.br/user/flavioccf)
-
-
-<!--
-**flavioccf/flavioccf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
