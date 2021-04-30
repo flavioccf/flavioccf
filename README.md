@@ -41,8 +41,8 @@ Come and find me on
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=flavioccf&show_icons=tru&theme=dracula&count_private=true" alt="Status" />
+<img src="https://github-readme-stats.vercel.app/api?username=flavioccf&show_icons=tru&theme=tokyonight&count_private=true&hide=issues,contribs" alt="Status" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioccf&layout=compact&show_icons=true&theme=dracula&count_private=true" alt="Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioccf&layout=compact&show_icons=true&theme=tokyonight&count_private=true&hide=css" alt="Langs" />
