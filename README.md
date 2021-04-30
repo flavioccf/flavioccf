@@ -14,7 +14,7 @@ I'm married to a beautifull and intelligent woman and we have a big dog named Ch
 
 Team leader, Fullstack Developer, IBM  Watson Chatbot curator and also Responsible for Customer Support Area of LG Electronics Brazil [website](https://wwwstg.lg.com/br/suporte)
 
-### Main technologies I am working with or studying:
+### 🚀 Main technologies I am working with or studying:
 <p align="left">
 <code><img title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
