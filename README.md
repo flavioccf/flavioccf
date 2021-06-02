@@ -2,17 +2,17 @@
 
 ### ℹ About Me:
 
-I'm a guy with a bachelor's degree in tourism, MBA and now a Systems Development Diploma. 
-I started progamming a little late in my life, back when I was 25, but I'm very dedicated, eager to learn and **always open for new opportunities**.
+I'm a guy with a bachelor's degree in tourism, MBA, and now a Systems Development Diploma. 
+I started programming a little late in my life, back when I was 25, but I'm very dedicated, eager to learn, and **always open to new opportunities**.
 
-I'm in love with gaming, reading and watching movies, specially scify and fantasy (such as Matrix, Star Wars and Lord of The Rings).
+I'm in love with gaming, reading, and watching movies, especially sci-fi and fantasy (such as Matrix, Star Wars, and Lord of The Rings).
 I play acoustic rock 🎸 and from time to time I jam at some local pubs.
 
-I'm married to a beautifull and intelligent woman and we have a big dog named Chewbacca (AKA Chewie)
+I'm married to a beautiful and intelligent woman and we have a big dog named Chewbacca (AKA Chewie)
 
 ### 🔭 At work I'm a:
 
-Team leader, Fullstack Developer, IBM  Watson Chatbot curator and also Responsible for Customer Support Area of LG Electronics Brazil [website](https://wwwstg.lg.com/br/suporte)
+Frontend Developer at [TrackTik](https://www.tracktik.com)
 
 ### 🚀 Main technologies I am working with or studying:
 <p align="left">
@@ -46,3 +46,8 @@ Come and find me on
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioccf&layout=compact&show_icons=true&theme=tokyonight&count_private=true&hide=css" alt="Langs" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=flavioccf&theme=tokyonight" alt="WakaTime"/>
+
