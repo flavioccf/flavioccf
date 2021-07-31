@@ -47,7 +47,3 @@ Come and find me on
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioccf&layout=compact&show_icons=true&theme=tokyonight&count_private=true&hide=css" alt="Langs" />
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=flavioccf&theme=tokyonight" alt="WakaTime"/>
-
