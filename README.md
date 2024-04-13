@@ -12,7 +12,7 @@ I'm married to a beautiful and intelligent woman and we have a big dog named Che
 
 ### 🔭 At work I'm a:
 
-Frontend Developer at [Vessi](https://www.vessi.com)
+Frontend Developer at [Vessi](https://www.vessi.com) working in the Shopify Platform with Liquid, JavaScript, VueJs, Next.js, Electron and more
 
 ### 🚀 Main technologies I am working with or studying:
 <p align="left">
