@@ -36,7 +36,7 @@ Come and find me on
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=flavioccf&show_icons=tru&theme=tokyonight&count_private=true&hide=issues,contribs" alt="Status" />
+<img src="https://github-readme-stats.vercel.app/api?username=flavioccf&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs" alt="Status" />
 
 <br>
 
