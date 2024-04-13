@@ -2,13 +2,10 @@
 
 ### ℹ About Me:
 
-I'm a guy with a bachelor's degree in tourism, MBA, and now a Systems Development Diploma. 
-I started programming a little late in my life, back when I was 25, but I'm very dedicated, eager to learn, and **always open to new opportunities**.
-
-I'm in love with gaming, reading, and watching movies, especially sci-fi and fantasy (such as Matrix, Star Wars, and Lord of The Rings).
+I love gaming, reading, and watching movies, especially sci-fi and fantasy (such as Matrix, Star Wars, and Lord of The Rings).
 I play acoustic rock 🎸 and from time to time I jam at some local pubs.
 
-I'm married to a beautiful and intelligent woman and we have a big dog named Chewbacca (AKA Chewie)
+I also have a big fluffy dog named Chewbacca (AKA Chewie)
 
 ### 🔭 At work I'm a:
 
