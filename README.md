@@ -37,5 +37,4 @@ Come and find me on
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioccf&layout=compact&show_icons=true&theme=tokyonight&count_private=true&hide=css" alt="Langs" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioccf&layout=compact&show_icons=true&theme=tokyonight&count_private=true&hide=css,scss,html,dockerfile&size_weight=0.5&count_weight=0.5" alt="Langs" />
